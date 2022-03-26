@@ -3,12 +3,12 @@
 
 <p align="left"> <a href="https://twitter.com/weebitzpeto" target="blank"><img src="https://img.shields.io/twitter/follow/weebitzpeto?logo=twitter&style=for-the-badge" alt="weebitzpeto" /></a> </p>
 
-- 🔭 I’m currently working on [collecting abandonware](https://github.com/ItzPeto/RealnyZivot)
+- 🔭 I’m currently [collecting abandonware](https://github.com/ItzPeto/RealnyZivot)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/weebitzpeto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="weebitzpeto" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discords.com/bio/p/ItzPeto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discords.com/bio/p/ItzPeto" height="30" width="40" /></a>
+<a href="https://discords.com/bio/p/ItzPeto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discords.com/bio/p/ItzPeto" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

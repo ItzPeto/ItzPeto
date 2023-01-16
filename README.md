@@ -18,4 +18,3 @@
 
 ![:view_count](https://count.chiya.dev/get/@ItzPetoGitHub?theme=rule34)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itzpeto&show_icons=true&locale=en" alt="itzpeto" /></p>

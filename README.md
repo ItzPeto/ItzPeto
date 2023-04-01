@@ -11,5 +11,5 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313dyo5fdewjse6ol5eacemydgiy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=313dyo5fdewjse6ol5eacemydgiy&redirect=true)
   
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itzpeto&show_icons=true&locale=en" alt="itzpeto" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itzpeto&theme=default" alt="itzpeto"/></p>
+<p align="center">&nbsp;<img align="center" height=150 src="https://github-readme-stats.vercel.app/api?username=itzpeto&show_icons=true&locale=en" alt="itzpeto" /><img align="center" height=150 src="https://github-readme-streak-stats.herokuapp.com/?user=itzpeto&theme=default" alt="itzpeto"/></p>
 <p align="center"><img align="center" src="https://count.chiya.dev/get/@ItzPetoGitHub?theme=rule34" alt="ItzPetoGithHub" /></p>

@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Peter</h1>
-<h3 align="center">A passionate developer from Slovakia</h3>
+<h1 align="center">Welcome to my GitHub profile!</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itzpeto&label=Profile%20views&color=ffffff&style=flat" alt="itzpeto" /> </p>
 
